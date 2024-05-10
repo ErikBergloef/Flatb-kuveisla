@@ -1,0 +1,14 @@
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Test\Flatbökuveisla\Flatbökuveisla\bin\Debug\net8.0\Flatbökuveisla.exe
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Test\Flatbökuveisla\Flatbökuveisla\bin\Debug\net8.0\Flatbökuveisla.deps.json
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Test\Flatbökuveisla\Flatbökuveisla\bin\Debug\net8.0\Flatbökuveisla.runtimeconfig.json
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Test\Flatbökuveisla\Flatbökuveisla\bin\Debug\net8.0\Flatbökuveisla.dll
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Test\Flatbökuveisla\Flatbökuveisla\bin\Debug\net8.0\Flatbökuveisla.pdb
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Test\Flatbökuveisla\Flatbökuveisla\obj\Debug\net8.0\Flatbökuveisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Test\Flatbökuveisla\Flatbökuveisla\obj\Debug\net8.0\Flatbökuveisla.AssemblyInfoInputs.cache
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Test\Flatbökuveisla\Flatbökuveisla\obj\Debug\net8.0\Flatbökuveisla.AssemblyInfo.cs
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Test\Flatbökuveisla\Flatbökuveisla\obj\Debug\net8.0\Flatbökuveisla.csproj.CoreCompileInputs.cache
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Test\Flatbökuveisla\Flatbökuveisla\obj\Debug\net8.0\Flatbökuveisla.dll
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Test\Flatbökuveisla\Flatbökuveisla\obj\Debug\net8.0\refint\Flatbökuveisla.dll
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Test\Flatbökuveisla\Flatbökuveisla\obj\Debug\net8.0\Flatbökuveisla.pdb
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Test\Flatbökuveisla\Flatbökuveisla\obj\Debug\net8.0\Flatbökuveisla.genruntimeconfig.cache
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Test\Flatbökuveisla\Flatbökuveisla\obj\Debug\net8.0\ref\Flatbökuveisla.dll
